@@ -1,8 +1,7 @@
 # LR1-parser-creator-cs
 LR1 parser creator in CSharp, course project level quality
 
-The solution folder is archived in ParserAndTest.zip. It is a Visual
-Studio 2010/2012 solution folder. ParserBase folder is the basic
+It is a Visual Studio 2010/2012 solution folder. ParserBase folder is the basic
 objects/methods/properties for building a parser. Test folder contains
 a set of methods (Test.cs) for testing the parser and small piece code
 (Main.cs) for test a parser which is specified by a grammar definition
